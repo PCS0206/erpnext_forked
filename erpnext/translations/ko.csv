@@ -1,0 +1,1182 @@
+Home,홈
+Desk,데스크
+Accounting,회계
+Stock,재고 관리
+Buying,구매 / 발주
+Selling,영업 / 판매
+Manufacturing,제조 (생산)
+CRM,고객관계관리 (CRM)
+Projects,프로젝트 관리
+Assets,고정자산 관리
+Support,고객 지원 (CS)
+HR,인사
+Payroll,급여
+Users and Permissions,사용자 및 권한
+Settings,설정
+Integrations,외부 연동
+Customization,커스터마이징
+Build,개발 / 빌드 도구
+Tools,도구
+Workspaces,워크스페이스
+Dashboard,대시보드
+Reports,보고서
+Save,저장
+Saved,저장됨
+Submit,제출 (Submit)
+Submitted,제출됨
+Cancel,취소 (Cancel)
+Cancelled,취소됨
+Amend,수정 재제출 (Amend)
+Amended,수정 재제출됨
+Delete,삭제 (Delete)
+Deleted,삭제됨
+New,신규
+Create,생성 (Create)
+Edit,수정
+Update,업데이트
+Refresh,새로고침
+Reload,새로고침
+Print,인쇄 (Print)
+Email,이메일 (Email)
+Export,내보내기 (Export)
+Import,가져오기 (Import)
+Duplicate,복제
+Discard,변경사항 취소
+Close,닫기
+Back,뒤로
+Next,다음
+Previous,이전
+Finish,완료
+Done,완료
+Clear,초기화
+Filter,필터
+Filters,필터
+Sort By,정렬 기준
+Group By,그룹화 기준
+Search,검색
+Search...,검색...
+Select All,전체 선택
+Actions,작업
+View,보기
+List View,목록 보기
+Report View,보고서 보기
+Dashboard View,대시보드 보기
+Kanban,칸반
+Gantt,간트 차트
+Add Row,행 추가
+Insert Below,아래에 행 삽입
+Insert Above,위에 행 삽입
+Delete Row,행 삭제
+Duplicate Row,행 복제
+Move Up,위로 이동
+Move Down,아래로 이동
+Attach,첨부
+Upload,업로드
+Download,다운로드
+Preview,미리보기
+Confirm,확인
+Yes,예
+No,아니오
+Status,상태
+Draft,임시저장
+Open,열림
+Closed,마감/종료
+Pending,대기 중
+Approved,승인됨
+Rejected,반려됨
+Paid,결제완료
+Unpaid,미결제
+Partially Paid,부분 결제
+Overdue,기한 초과
+Active,활성
+Inactive,비활성
+Enabled,활성화됨
+Disabled,비활성화됨
+Completed,완료됨
+In Progress,진행 중
+Queued,대기열 추가됨
+Success,성공
+Failed,실패
+Error,오류
+Warning,경고
+ID,ID
+Name,이름
+Title,제목
+Date,날짜
+Posting Date,전표 발행일
+Transaction Date,거래일
+Due Date,납기일 / 만기일
+From Date,시작일
+To Date,종료일
+Company,회사
+Customer,고객사 / 매출처
+Customer Name,고객사명
+Customer Group,고객 분류
+Supplier,공급처 / 매입처
+Supplier Name,공급처명
+Supplier Group,공급처 분류
+Item,품목
+Item Code,품목 코드
+Item Name,품목명
+Item Group,품목 그룹
+Quantity,수량
+Qty,수량
+Rate,단가
+Price,가격
+Amount,금액
+Net Total,공급가액 총계
+Total,합계
+Grand Total,총계 (VAT 포함)
+Rounded Total,반올림 합계
+In Words,금액(한글/문자)
+Currency,통화
+Price List,가격표
+UOM,단위
+Stock UOM,재고 단위
+Conversion Factor,환산 계수
+Warehouse,창고
+Default Warehouse,기본 창고
+Description,설명
+Remark,비고
+Remarks,비고
+Notes,메모
+Address,주소
+Contact,연락처
+Phone,전화번호
+Mobile No,휴대폰 번호
+Email Address,이메일 주소
+Tax,세금
+Taxes,세금
+Taxes and Charges,세금 및 부대비용
+Tax Rate,세율
+Tax Amount,세액
+VAT,부가가치세
+Discount,할인
+Discount Percentage,할인율 (%)
+Discount Amount,할인 금액
+Sales Invoice,매출 세금계산서 / 인보이스
+Purchase Invoice,매입 세금계산서 / 인보이스
+Payment Entry,수금 / 지급 전표
+Journal Entry,분개 전표
+General Ledger,총계정원장
+Chart of Accounts,계정과목표
+Account,계정
+Account Name,계정명
+Account Number,계정번호
+Account Type,계정 유형
+Debit,차변
+Credit,대변
+Balance,잔액
+Cost Center,코스트 센터
+Fiscal Year,회계연도
+Bank Account,은행 계좌
+Bank Statement,은행 거래내역서
+Mode of Payment,결제 방식
+Payment Terms,결제 조건
+Accounts Receivable,매출채권 (외상매출금)
+Accounts Payable,매입채무 (외상매입금)
+Profit and Loss Statement,손익계산서
+Balance Sheet,재무상태표
+Cash Flow,현금흐름표
+Trial Balance,합계잔액시산표
+Quotation,견적서
+Sales Order,수주 / 주문서
+Delivery Note,출하 / 배송 명세서
+Purchase Order,발주서
+Purchase Receipt,입고 확인서
+Request for Quotation,견적 요청서 (RFQ)
+Supplier Quotation,공급처 견적서
+Material Request,자재 구매/이동 요청서
+Sales Partner,영업 파트너
+Sales Person,영업 담당자
+Territory,지역 / 권역 (Territory)
+Stock Entry,재고 입출고 / 이동 전표
+Stock Ledger,재고 수불부
+Stock Balance,재고 잔고 현황
+Serial No,시리얼 번호
+Batch No,배치 (로트) 번호
+Bill of Materials,자재명세서 (BOM)
+BOM,BOM
+Work Order,작업 지시서
+Job Card,공정 작업표
+Operation,공정
+Workstation,작업장
+Routing,공정 순서 (라우팅)
+Production Plan,생산 계획
+Default Work In Progress Warehouse,기본 재공품 창고
+Lead,리드 (잠재고객)
+Opportunity,영업 기회
+Project,프로젝트
+Task,태스크 / 작업
+Timesheet,타임시트 / 근무시간표
+Activity Type,활동 유형
+DocType,대상 문서 유형
+Role,역할
+User,사용자
+User Permissions,사용자 데이터 권한 목록
+Role Permissions Manager,역할별 권한 관리자
+Custom Field,사용자 정의 필드
+Customize Form,양식(Form) 커스터마이징
+Client Script,클라이언트 스크립트
+Server Script,서버 스크립트
+Print Format,인쇄 양식
+Workflow,워크플로우 (결재선)
+Notification,자동 알림 규칙
+System Settings,시스템 환경 설정
+Session Expired,세션이 만료되었습니다.
+Not Permitted,접근 권한이 없습니다.
+Mandatory fields required,필수 입력 항목을 입력해 주세요.
+Are you sure you want to delete {0}?,{0} 항목을 정말 삭제하시겠습니까?
+Is Child Table,하위 테이블 여부
+Parent,상위
+Child,하위
+A little about you,사용자 및 비즈니스 소개
+A few quick questions so we can set things up the way you work.,업무 방식에 맞춰 시스템을 설정하기 위한 몇 가지 간단한 질문입니다.
+What kind of work do you do?,어떤 업종에 종사하시나요?
+Retail,소매업
+Wholesale / Distribution,도매 / 유통업
+E-commerce,이커머스 / 전자상거래
+Services / Consulting,서비스 / 컨설팅
+Construction / Real Estate,건설 / 부동산
+Technology / Software,IT / 소프트웨어
+Healthcare,의료 / 헬스케어
+Education,교육
+Agriculture,농업
+Food & Beverage,식음료 (F&B)
+Non Profit,비영리 단체
+Other,기타
+Who are you setting this up for?,누구를 위해 설정하고 계신가요?
+My own business,본인 사업체
+A company I work for,재직 중인 회사
+A client I'm consulting for,컨설팅 중인 고객사
+How big is the team?,팀 (회사) 규모가 어떻게 되나요?
+What do you use today?,현재 어떤 시스템을 사용하고 계신가요?
+Excel / Spreadsheets,엑셀 / 스프레드시트
+Nothing yet - starting fresh,없음 (신규 시작)
+Select the modules that you plan to implement,도입할 모듈을 선택해 주세요
+Set up your company,회사 기본 정보 설정
+We'll use these to create your company and its accounts.,입력하신 정보를 바탕으로 회사와 기본 회계 계정과목이 생성됩니다.
+Company Name,회사명
+Company Abbreviation,회사 약어 (영문 축약)
+"A short code added to account names, like Cash - AC.",계정과목명 뒤에 붙는 약어 코드입니다 (예: 현금 - AC).
+The standard chart for your country works for most businesses.,국가별 표준 계정과목표는 대부분의 비즈니스에 적합합니다.
+View Chart of Accounts,계정과목표 미리보기
+Financial Year Begins On,회계연도 시작일
+End Date,종료일
+All Accounts,전체 계정과목
+Expand All,모두 펼치기
+Collapse All,모두 접기
+"These set how dates, numbers and money look across the app.","날짜, 숫자, 통화 표기 방식을 설정합니다."
+Share usage data to help us improve,제품 개선을 위한 사용 통계 공유
+You'll use these details to sign in.,로그인에 사용할 계정 정보입니다.
+Full Name,성명
+Password,비밀번호
+Confirm Password,비밀번호 확인
+Get Started,시작하기
+Try Again,다시 시도
+Getting started,시작하는 중...
+Setting up the basics,기본 설정 구성 중
+We couldn't set up the basics,기본 설정을 구성할 수 없습니다
+Creating your company,회사 생성 중
+We couldn't create your company,회사를 생성할 수 없습니다
+Applying recommended settings,권장 설정 적용 중
+We couldn't apply the recommended settings,권장 설정을 적용할 수 없습니다
+Personalizing your setup,맞춤 환경 구성 중
+We couldn't personalize your setup,맞춤 환경을 구성할 수 없습니다
+Language,언어
+Select Language,언어 선택
+Country,국가
+Select Country,국가 선택
+Time Zone,표준 시간대
+Select Time Zone,시간대 선택
+Select Currency,통화 선택
+"Korea, Republic of",대한민국
+South Korea,대한민국
+Print Settings,인쇄 환경 설정
+Email Template,이메일 템플릿
+Print Format Builder,인쇄 양식 빌더
+Print Format Field Template,인쇄 양식 필드 템플릿
+Print Format Snippet,인쇄 양식 코드 조각
+Letter Head,레터헤드 (공문 서식 상단/하단)
+Address Template,주소 양식
+Terms and Conditions,거래 약관 및 기본 조건
+Email Account,이메일 계정
+Email Domain,이메일 도메인
+Email Group,이메일 그룹
+Email Queue,이메일 발송 대기열
+Auto Email Report,보고서 자동 이메일 발송
+Network Printer Settings,네트워크 프린터 설정
+Workflow State,결재 단계 (상태)
+Workflow Action,결재 처리 (승인/반려)
+Workflow Action Master,결재 동작 마스터
+Document Naming Rule,문서 번호 채번 규칙
+Document Naming Settings,문서 채번 설정
+Naming Series,문서 일련번호 (채번) 관리
+Auto Repeat,정기 자동 발행
+Assignment Rule,담당자 자동 배정 규칙
+Data Import,데이터 일괄 가져오기
+Data Export,데이터 내보내기
+Bulk Update,데이터 일괄 수정
+Global Defaults,전역 기본 설정
+Navbar Settings,상단 메뉴바 설정
+Notification Settings,알림 수신 설정
+Session Default Settings,세션 기본값 설정
+Property Setter,속성 재정의 (Property Setter)
+Module Def,모듈 정의
+Workspace,워크스페이스
+Dashboard Chart,대시보드 차트
+Number Card,지표 카드
+Report,보고서 (Report)
+Query Report,SQL 쿼리 보고서
+Script Report,스크립트 보고서
+Prepared Report,사전 생성 보고서
+Web Form,웹 입력 폼
+Web Page,웹 페이지
+Web Template,웹 템플릿
+Website Settings,웹사이트 설정
+Portal Settings,고객 포털 설정
+Accounts Settings,회계 설정
+Stock Settings,재고 설정
+Buying Settings,구매/발주 설정
+Selling Settings,영업/판매 설정
+Manufacturing Settings,제조/생산 설정
+Projects Settings,프로젝트 설정
+CRM Settings,CRM 설정
+Support Settings,고객지원 설정
+Delivery Settings,배송 설정
+ERPNext Settings,ERPNext 환경 설정
+Role Profile,역할 프로필 (Role Profile)
+User Profile,사용자 프로필
+Permission Inspector,권한 점검 도구
+Document Template,문서 템플릿
+Contract Template,계약서 템플릿
+Project Template,프로젝트 템플릿
+Quality Inspection Template,품질 검사 템플릿
+Quality Feedback Template,품질 피드백 템플릿
+Cheque Print Template,수표 인쇄 템플릿
+Item Tax Template,품목별 세율 템플릿
+Journal Entry Template,자주 쓰는 분개 템플릿
+Payment Terms Template,결제 조건 템플릿
+Purchase Taxes and Charges Template,매입 부가세/부대비용 템플릿
+Sales Taxes and Charges Template,매출 부가세/부대비용 템플릿
+Shipment Parcel Template,배송 택배 박스 템플릿
+POS Settings,POS 설정
+POS Profile,POS 프로필
+POS Opening Entry,POS 개점 전표
+POS Closing Entry,POS 마감 전표
+POS Invoice,POS 송장 (영수증)
+POS,POS
+Point of Sale,POS (판매시점관리)
+Bank Reconciliation Tool,은행 계좌 대사 도구
+Bank Clearance,은행 출납 확인
+BOM Update Tool,BOM 일괄 갱신 도구
+Chart of Accounts Importer,계정과목표 가져오기 도구
+Opening Invoice Creation Tool,기초 잔액 송장 생성 도구
+Payment Reconciliation,입출금-전표 대사(상계) 도구
+Quick Stock Balance,빠른 재고 잔고 조회
+Stock Reposting Settings,재고 원가 재계산 설정
+System Console,시스템 콘솔
+System Health Report,시스템 상태 점검 보고서
+Activity Log,사용자 활동 로그
+Error Log,오류 로그
+Version Log,버전 변경 이력
+Log Settings,로그 보관 설정
+Scheduled Job Type,스케줄러 작업 유형
+Default Company,기본 회사
+Default Currency,기본 통화
+Default Price List,기본 가격표
+Default Cost Center,기본 코스트 센터
+Send Email,이메일 발송
+Incoming Server,수신 서버
+Outgoing Server,발신 서버
+SMTP Server,SMTP 서버
+Port,포트
+Use SSL,SSL 사용
+Use TLS,TLS 사용
+Letter Head Name,레터헤드 이름
+Header,머리글 (헤더)
+Footer,바닥글 (푸터)
+Is Default,기본값 여부
+Subject,제목
+Message,본문 내용
+Print Format Name,인쇄 양식 이름
+Standard,표준 양식
+Custom,사용자 정의
+Margin Top,상단 여백 (mm)
+Margin Bottom,하단 여백 (mm)
+Margin Left,좌측 여백 (mm)
+Margin Right,우측 여백 (mm)
+Page Size,용지 크기
+Orientation,용지 방향
+Portrait,세로 방향
+Landscape,가로 방향
+Print with Letterhead,레터헤드 포함 인쇄
+Default Print Format,기본 인쇄 양식
+Allow Print for Draft,임시저장 문서 인쇄 허용
+Allow Print for Cancelled,취소된 문서 인쇄 허용
+Send with Attachment,첨부파일 포함 발송
+Font,글꼴
+Font Size,글꼴 크기
+Raw Printing,직접 인쇄 (Raw Printing)
+Custom CSS,사용자 정의 CSS
+Default Letter Head,기본 레터헤드
+Compact Item Print,품목 간소화 인쇄
+Print Style,인쇄 스타일
+Financial Reports,재무 보고서
+Invoicing,세금계산서 / 인보이스
+Payments,수금 / 지급 관리
+Printing,인쇄 / 양식 설정
+Automation,자동화 설정
+Users,사용자 및 권한 관리
+Website,웹사이트 관리
+System,시스템 설정
+Flow,업무 흐름 (Flow)
+Quality,품질 관리
+No {0} created,등록된 {0} 내역이 없습니다
+No {0} found,일치하는 {0} 검색 결과가 없습니다
+Add {0},새 {0} 등록
+Add {0} to a module,모듈에 {0} 추가
+Add {0} Access to {1},{1}에 {0} 접근 권한 추가
+Create your first {0} to get started.,첫 번째 {0}을(를) 등록하여 시작해 보세요.
+Clear the filters to see all records.,필터를 해제하면 전체 내역을 확인할 수 있습니다.
+Nothing has been added yet.,아직 추가된 내역이 없습니다.
+Create a new {0},새 {0} 만들기
+New {0},새 {0}
+Edit {0},{0} 수정
+Delete {0},{0} 삭제
+Select {0},{0} 선택
+Search {0},{0} 검색
+Filter By,필터 기준
+Filter by,필터 기준
+Add Filter,필터 추가
+Clear Filters,필터 초기화
+Sort by,정렬 기준
+Last Updated On,최종 수정일
+Created On,생성일
+Refresh List,목록 새로고침
+Assigned To,담당자
+Shared With,공유 대상
+Tags,태그
+Liked By,좋아요한 사용자
+Timeline,타임라인
+Search or type a command,검색 또는 명령어 입력
+Search or type a command (Ctrl + G),검색 또는 명령어 입력 (Ctrl + G)
+to navigate,이동
+to select,선택
+to close,닫기
+to open Global Search,통합 검색 열기
+Search for {0},'{0}' 검색
+Find {0} in {1},{1}에서 '{0}' 찾기
+Advanced Search,고급 검색
+Recent Searches,최근 검색어
+No results found for {0},'{0}'에 대한 검색 결과가 없습니다
+Clear Link,연결 초기화
+Open Link,연결 항목 열기
+Open in Desk,데스크에서 열기
+Result,결과
+Generate Random Password,무작위 비밀번호 생성
+Search in {0},{0}에서 검색
+Search doctype,문서 유형 검색
+Global Search,통합 검색
+Search Results,검색 결과
+Scheduled Job Log,스케줄러 실행 로그
+Access Log,시스템 접속 로그
+Backup,백업
+Download Backup,백업 다운로드
+Backup Manager,백업 관리자
+Background Jobs,백그라운드 작업
+Installed Applications,설치된 애플리케이션
+Installed Application,설치된 애플리케이션
+Workflow Transition,결재 상태 전이 규칙
+Workflow Document State,문서 결재 상태 정의
+Session Defaults,세션 기본값
+Clear Cache,캐시 비우기
+Patch Log,패치 실행 로그
+Country Name,국가명
+Country Code,국가 코드
+Date Format,날짜 서식
+Time Format,시간 서식
+Currency Name,통화명
+Currency Symbol,통화 기호
+Fraction,보조 통화 단위
+Fraction Units,보조 통화 단위 수
+Smallest Currency Fraction Value,최소 통화 단위
+Currency Exchange,환율
+Currency Exchange Settings,환율 자동 갱신 설정
+Exchange Rate,환율
+From Currency,기준 통화
+To Currency,환전 통화
+Territory Name,권역명
+Parent Territory,상위 지역
+Address Title,주소 명칭
+Address Type,주소 유형
+Address Line 1,기본 주소
+Address Line 2,상세 주소
+City,시/군/구
+County,구/군
+State,시/도
+Postal Code,우편번호
+Geolocation Settings,지리위치 / 지도 API 설정
+Google Maps API Key,Google 지도 API 키
+Roles,역할 목록
+User Group,사용자 그룹
+Send Welcome Email,환영 이메일 발송
+User Type,사용자 유형
+System User,시스템 사용자 (내부 임직원)
+Website User,웹사이트 사용자 (외부 고객/협력사)
+Set Password,비밀번호 설정
+Reset Password,비밀번호 재설정
+API Access,API 접근 권한
+API Key,API 키
+API Secret,API 시크릿 (비밀키)
+Generate Keys,API 키 생성
+Simultaneous Sessions,동시 접속 허용 세션 수
+Restrict IP,접속 허용 IP 제한
+Email Campaign,이메일 캠페인
+Email Digest,정기 비즈니스 이메일 요약
+Communication,커뮤니케이션 기록
+POS Invoice Merge Log,POS 송장 병합 로그
+A bill to a customer for what you sold.,판매한 품목이나 서비스에 대해 고객에게 발행하는 매출 세금계산서/송장입니다.
+"Money you received or paid, matched against invoices.",매출/매입 송장에 맞춰 고객에게 수금하거나 공급처에 지급한 전표입니다.
+A bill from a supplier for what you bought.,구매한 물품이나 용역에 대해 공급처로부터 받은 매입 세금계산서/송장입니다.
+A customer's confirmed order.,고객으로부터 최종 확정받은 주문/수주서입니다.
+Items shipped to a customer.,고객에게 물품을 출하 및 배송한 내역을 기록하는 명세서입니다.
+An order you place with a supplier.,공급처에 자재나 품목 구매를 요청하는 정식 발주서입니다.
+Items received from a supplier.,공급처로부터 발주한 물품이 입고되었음을 확인하는 입고 확인서입니다.
+Prices you offer a customer or lead.,고객 또는 잠재고객에게 제공하는 제품/서비스 견적서입니다.
+Prices a supplier offered you.,공급처로부터 전달받은 단가 견적서입니다.
+Ask suppliers for prices on the items you need.,필요한 자재 품목에 대해 복수의 공급처에 가격 견적을 요청하는 서식(RFQ)입니다.
+"A request to buy, transfer or make items.","생산, 이동 또는 구매가 필요한 자재를 요청하는 전표입니다."
+"A direct entry in your books, for anything without its own form.",별도의 양식이 없는 일반적인 차대변 회계 거래를 직접 기록하는 분개 전표입니다.
+"Moves, receives, issues or manufactures stock.","재고의 입고, 출고, 창고 간 이동 및 생산 투입/완제를 기록하는 전표입니다."
+Sets stock quantities and values to what is actually in your warehouses.,실제 창고 실사 수량 및 금액에 맞춰 시스템 재고를 조정하는 전표입니다.
+A company or person you sell goods or services to.,제품이나 서비스를 판매하는 대상인 고객사 또는 개인입니다.
+A company or person you buy goods or services from.,물품이나 용역을 구매하는 거래처(공급처/매입처)입니다.
+"A product or service you buy, sell or keep in stock.","구매, 판매 또는 재고로 보관 관리하는 품목(제품, 원자재, 서비스)입니다."
+A place where you keep stock.,물품 및 자재를 보관하는 창고 또는 저장 위치입니다.
+"A legal entity with its own books, like your business or a subsidiary.",자사 법인 또는 독립적인 회계 장부를 운영하는 자회사입니다.
+A ledger in your chart of accounts that entries are posted to.,회계 전표가 전기되는 계정과목표 상의 계정 원장입니다.
+"A part of your business you track income and expenses for, like a branch or product line.","사업부, 지점, 프로젝트 등 손익을 독립적으로 집계하는 코스트 센터입니다."
+The year your books are kept and closed for.,회계 장부 결산 및 세무 신고의 기준이 되는 회계연도입니다.
+The materials and operations it takes to make an item.,제품 1단위를 생산하는 데 소요되는 원자재 구성 및 공정 정보(BOM)입니다.
+An order to make a quantity of an item.,특정 품목을 지정된 수량만큼 생산하도록 지시하는 작업 지시서입니다.
+The work done for one operation of a work order.,작업 지시서의 세부 개별 공정에 대해 작업 실적을 기록하는 공정 작업표입니다.
+"A piece of work with tasks, time and costs.","일정, 업무 태스크, 투입 공수 및 원가를 통합 관리하는 프로젝트입니다."
+"A piece of work to be done, often part of a project.",프로젝트 수행을 위해 완료해야 하는 세부 작업 태스크입니다.
+"Time spent on tasks and activities, to bill or cost.",업무 및 프로젝트에 투입된 근무 시간을 기록하여 청구하거나 원가에 반영하는 타임시트입니다.
+Someone who might buy from you.,당사 제품이나 서비스 구매 가능성이 있는 잠재고객(리드)입니다.
+A potential sale to a lead or customer.,영업 성공 가능성이 구체화된 비즈니스 영업 기회(딜)입니다.
+A problem or question raised by a customer.,"고객이 접수한 기술 문의, 장애, 요청 사항(CS 티켓)입니다."
+Someone who can log in to your site.,시스템에 접속하여 업무를 수행할 수 있는 사용자 계정입니다.
+A bank account of yours or of a customer or supplier.,"자사, 고객사 또는 공급처의 은행 계좌 정보입니다."
+A bank you or your customers and suppliers hold accounts with.,자사 및 거래처가 거래하는 금융기관(은행) 정보입니다.
+A batch of payments to send to your bank.,은행에 일괄 송금 의뢰할 지급 대상 묶음 전표입니다.
+"A line from your bank statement, ready to be matched with a payment.","은행 통장 거래내역 라인으로, 회계 전표와 대사(Reconciliation)할 수 있습니다."
+Bring in a bank statement to match its lines against your books.,은행 거래내역서(엑셀/CSV)를 업로드하여 회계 장부와 대사하는 도구입니다.
+Undo a payment's match against invoices.,송장과 매칭(상계) 처리된 입출금 전표 연결을 취소하는 기능입니다.
+Matches payments to invoices in the background.,입출금 전표와 송장 미결 잔액을 백그라운드에서 자동 대사하는 기능입니다.
+"A single unit of an item, tracked by its own number.",개별 품목 단위를 식별 및 추적하기 위한 고유 일련번호(시리얼 번호)입니다.
+A group of units of an item made or received together.,동일 시점에 함께 생산되거나 입고되어 관리되는 로트(배치) 단위입니다.
+"A set of item prices for buying, selling or both.","구매, 판매 또는 특정 거래처군에 적용되는 품목별 기준 가격표입니다."
+The price of an item in a price list.,특정 가격표에 등록된 개별 품목의 단가 정보입니다.
+"Groups items, for pricing, defaults and reporting.","가격 책정, 기본값 설정 및 통계 분석을 위해 품목을 분류하는 그룹입니다."
+The contents and weight of each package in a delivery.,배송 건별 포장 박스의 내용물과 중량을 기록하는 패킹 리스트입니다.
+The serial numbers and batches moved in a transaction.,재고 이동 트랜잭션에 포함된 시리얼 번호 및 배치 번호 묶음입니다.
+"The planned cost of an item, to compare with what it actually cost.",실제 원가와 비교 분석하기 위해 사전에 책정한 품목의 표준 계획 원가입니다.
+A sale made at the point of sale.,POS 단말기에서 결제 및 판매 완료된 영수증/송장 내역입니다.
+Opens a POS shift with the cash in the drawer.,돈통(현금) 준비금을 확인하고 POS 영업 교대근무를 시작하는 개점 전표입니다.
+Closes a POS shift and totals what was collected.,POS 영업 교대근무를 마감하고 현금 및 결제 수단별 매출 합계를 정산하는 마감 전표입니다.
+"Settings for a point of sale, like its warehouse, price list and payment methods.","POS 매장별 기본 창고, 가격표, 결제 수단 등을 지정하는 POS 프로필입니다."
+"Standard terms to add to quotes, orders and invoices.","견적서, 주문서, 세금계산서 등에 공통으로 추가할 표준 거래약관입니다."
+"A postal address of a customer, supplier, company or contact.","고객사, 공급처, 자사 또는 연락처의 우편 주소 정보입니다."
+"A person you deal with, at a customer, supplier or anywhere else.","고객사, 공급처 또는 파트너사의 담당자 연락처 정보입니다."
+"A region you sell in, to group customers and set targets.",영업 목표 설정 및 고객 관리를 위해 지역을 구분하는 영업 구역입니다.
+"Someone who sells for you, with targets and commission.",목표 및 수수료(인센티브)를 관리하는 사내외 영업 담당자입니다.
+A branch of your company.,회사의 지사 또는 영업소 정보입니다.
+"A job title, like manager or accountant.","팀장, 과장, 회계담당자 등 사내 직책 및 직위 정보입니다."
+A department of your company.,회사의 조직 부서 정보입니다.
+A brand your items are sold under.,제품 및 품목을 유통/판매할 때 사용하는 브랜드 정보입니다.
+"A unit you measure items in, like kg or box.","kg, 개, 박스 등 품목의 수량을 계량하는 기본 단위(UOM)입니다."
+"Something your business owns and uses over time, like a machine or a laptop.","기계, 차량, 컴퓨터 등 장기간 사용하는 회사의 유형 고정자산입니다."
+"A marketing campaign, to see which leads and sales it brought in.",리드 유입과 매출 기여도를 추적하기 위한 마케팅 캠페인입니다.
+A machine or place where operations are done.,가공이나 조립 공정이 실제로 진행되는 설비 머신 또는 작업장입니다.
+The holidays and weekly offs of a company or employee.,"회사 및 직원의 공휴일, 주휴일 및 휴무 일정 목록입니다."
+"Groups suppliers, for terms and reporting.",거래 조건 및 분석 보고서를 위해 공급처를 구분하는 분류 그룹입니다.
+"Groups customers, for pricing and reporting.",가격 할인 및 통계 분석을 위해 고객사를 구분하는 분류 그룹입니다.
+"How quotations, sales orders and pricing work.","견적서, 수주 주문서, 가격 정책 및 반품 관련 영업 환경설정입니다."
+"How items, warehouses and stock transactions work.","품목 관리, 창고 입출고 규칙 및 재고 평가 관련 환경설정입니다."
+"How leads, opportunities and appointments work.","잠재고객(리드), 영업 기회 및 미팅 일정 관리 관련 CRM 환경설정입니다."
+A saved set of accounts to start journal entries from.,매월 반복되는 분개 전표를 빠르게 생성하기 위해 미리 저장해 둔 계정 템플릿입니다.
+A set of payment terms to apply to invoices and orders.,"계약금 30%, 잔금 70% 등 송장 및 발주서에 적용할 분할 결제 조건 템플릿입니다."
+"The taxes and charges, like shipping or insurance, to add to sales.",매출 송장 발행 시 자동으로 가산할 부가가치세(10%) 및 운송비/부대비용 템플릿입니다.
+"The taxes and charges, like shipping or insurance, to add to purchases.",매입 전표 입력 시 적용할 매입 부가세 및 부대비용 템플릿입니다.
+A parcel size you ship often.,"자주 사용하는 배송 택배 박스의 규격(가로, 세로, 높이, 무게) 템플릿입니다."
+{0} List,{0} 목록
+{0} Report,{0} 보고서
+{0} Reports,{0} 보고서 목록
+{0} Tree,{0} 트리
+{0} Dashboard,{0} 대시보드
+In List,목록 검색
+Common Code,공통 코드
+Common Code List,공통 코드 목록
+Code List,코드 목록
+Code List List,코드 목록
+EDI,EDI (전자문서교환)
+Type a command or search...,명령어 또는 검색어 입력...
+Search in {0}...,{0}에서 검색...
+Open {0},{0} 열기
+No results found,검색 결과가 없습니다
+Set {0} to search,검색할 {0} 설정
+Search fields,필드 검색
+Global Search Settings,통합 검색 설정
+Global Search DocType,통합 검색 대상 문서 유형
+Search Priority,검색 우선순위
+Enabled For Search,검색 활성화
+Select Document Type or Role to start.,시작하려면 문서 유형(DocType) 또는 역할(Role)을 선택하세요.
+Quick Help for Setting Permissions,권한 설정 빠른 도움말
+Quick Help for Setting Permissions:,권한 설정 빠른 도움말:
+"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.","권한은 역할(Role)과 문서 유형(DocType) 단위로 설정되며, 읽기(Read), 쓰기(Write), 생성(Create), 삭제(Delete), 제출(Submit), 취소(Cancel), 수정 재제출(Amend), 보고서 조회(Report), 가져오기(Import), 내보내기(Export), 인쇄(Print), 이메일(Email) 및 사용자 권한 설정(Set User Permissions) 등의 세부 권한을 부여할 수 있습니다."
+Permissions get applied on Users based on what Roles they are assigned.,사용자에게 부여된 역할(Role)에 따라 해당 권한이 최종 적용됩니다.
+Roles can be set for users from their User page.,사용자 관리 페이지에서 각 사용자별로 역할을 부여할 수 있습니다.
+Setup > User,설정 > 사용자
+The system provides many pre-defined roles. You can add new roles to set finer permissions.,"시스템에 기본 정의된 다양한 역할이 제공되며, 세분화된 권한 설정을 위해 새 역할을 추가할 수 있습니다."
+Add a New Role,새 역할 추가
+Permissions are automatically applied to Standard Reports and searches.,설정된 권한은 표준 보고서와 검색 결과에도 자동으로 적용됩니다.
+"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.",권장 사항: 서로 다른 역할에 동일한 권한 규칙을 중복 지정하지 마세요. 대신 한 사용자에게 여러 역할을 함께 부여하는 방식을 권장합니다.
+Meaning of Different Permission Types,다양한 권한 유형의 의미
+Meaning of Different Permission Types:,다양한 권한 유형의 의미:
+Permission,권한 유형
+Example,적용 예시
+Select,선택 (Select)
+Allows the user to search and see records.,사용자가 문서를 검색하고 목록에서 선택할 수 있도록 허용합니다.
+The user can select a Customer in Sales Order but cannot open the Customer master.,"예: 주문서 작성 시 고객사를 선택할 수는 있지만, 고객사 마스터 원장을 직접 열람할 수는 없습니다."
+Read,읽기 (Read)
+Allows the user to view the document.,사용자가 문서를 열람할 수 있도록 허용합니다.
+The user can view Sales Invoices but cannot modify any field values in them.,"예: 매출 세금계산서를 조회할 수는 있지만, 내부 필드값을 수정할 수는 없습니다."
+Write,쓰기 (Write)
+Allows the user to edit existing records they have access to.,사용자가 접근 가능한 기존 문서를 수정할 수 있도록 허용합니다.
+The user can update a customer or any other fields in an existing Sales Order but cannot create a new Sales Order.,"예: 기존 주문서의 고객사나 필드값을 수정할 수는 있지만, 신규 주문서를 새로 생성할 수는 없습니다."
+Allows the user to create new documents.,사용자가 새로운 문서를 작성 및 등록할 수 있도록 허용합니다.
+The user can create a new Item but cannot edit existing items.,"예: 신규 품목을 등록할 수는 있지만, 기존 등록된 품목을 수정할 수는 없습니다."
+Allows the user to delete documents.,사용자가 문서를 삭제할 수 있도록 허용합니다.
+The user can delete Draft / Cancelled documents.,예: 임시저장(Draft) 또는 취소(Cancelled) 상태의 문서를 삭제할 수 있습니다.
+Allows printing or PDF download of documents.,문서의 인쇄 및 PDF 다운로드를 허용합니다.
+The print button is enabled for the user in the document.,예: 문서 상단의 인쇄 버튼이 활성화됩니다.
+Allows the user to email from the document.,문서 화면에서 거래처 등으로 바로 이메일을 발송할 수 있도록 허용합니다.
+The email button is enabled for the user in the document.,예: 문서 상단의 이메일 발송 버튼이 활성화됩니다.
+Allows the user to access reports related to the document.,해당 문서와 관련된 분석 보고서에 접근할 수 있도록 허용합니다.
+"If the user has access to Employee and Report is enabled, they can view Employee-based reports.","예: 직원에 대한 접근 권한과 보고서 권한이 있으면, 직원 기반 보고서를 조회할 수 있습니다."
+Allows the user to export data from the Report view.,보고서 및 목록 화면에서 데이터를 엑셀/CSV로 다운로드할 수 있도록 허용합니다.
+The user can export report data.,예: 보고서 데이터를 외부 파일로 내보낼 수 있습니다.
+Allows the user to use Data Import tool to create / update records.,데이터 가져오기(Data Import) 도구를 사용하여 대량으로 데이터를 생성하거나 갱신할 수 있도록 허용합니다.
+The user can import new records or update existing data for the document.,예: 엑셀 파일로 신규 레코드를 일괄 등록하거나 기존 데이터를 업데이트할 수 있습니다.
+Share,공유 (Share)
+Allows sharing document access with other users.,문서에 대한 접근 권한을 다른 사용자에게 공유할 수 있도록 허용합니다.
+The user can share document access with another user.,예: 특정 문서의 조회/수정 권한을 동료 사용자에게 공유할 수 있습니다.
+Mask,마스킹 (Mask)
+Allows users to enable the mask property for any field of the respective doctype.,해당 문서 유형의 특정 필드에 대해 마스킹(가림) 처리를 적용할 수 있도록 허용합니다.
+"If the user enables the mask property for the phone number field, the value will be displayed in a masked format (e.g., 811XXXXXXX).",예: 전화번호 필드에 마스킹을 적용하면 번호의 일부가 별표 처리(예: 010-XXXX-5678)되어 표시됩니다.
+Permission Levels,권한 레벨 (Permission Levels)
+Permission Levels:,권한 레벨 (Permission Levels):
+"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","레벨 0 권한은 문서 전체 단위 권한(Document Level)으로, 문서에 대한 기본적인 접근 여부를 결정합니다."
+"If a Role does not have access at Level 0, then higher levels are meaningless.","역할에 레벨 0 접근 권한이 없다면, 상위 레벨 권한은 적용되지 않습니다."
+Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,"레벨 1 이상의 상위 권한은 개별 필드 단위 권한(Field Level)입니다. 특정 역할에게 단가, 원가, 개인정보 등 민감한 필드를 숨기거나 읽기 전용으로 제한할 때 유용합니다."
+You can use Customize Form to set levels on fields.,폼 커스터마이징(Customize Form)을 통해 각 필드별 권한 레벨을 지정할 수 있습니다.
+Setup > Customize Form,설정 > 폼 커스터마이징
+User Permissions:,사용자별 데이터 접근 제한:
+User Permissions are used to limit users to specific records.,"특정 지사, 부서, 고객사 등 지정된 레코드 데이터로 사용자 접근 범위를 제한할 때 사용합니다."
+Setup > User Permissions,설정 > 사용자 권한
+Select Document Types to set which User Permissions are used to limit access.,접근을 제한할 기준 문서 유형을 선택합니다.
+"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","설정이 완료되면, 사용자는 본인에게 연결된 링크(예: 본인 담당 고객사)가 포함된 문서만 조회할 수 있습니다."
+"Apart from System Manager, roles with Set User Permissions right can set permissions for other users for that Document Type.","시스템 관리자 외에도, '사용자 권한 설정' 권한을 가진 역할은 해당 문서 유형에 대해 다른 사용자의 권한을 관리할 수 있습니다."
+"If these instructions where not helpful, please add in your suggestions on GitHub Issues.",도움말 관련 제안이나 문의사항이 있으시면 GitHub 이슈에 등록해 주세요.
+Submit an Issue,이슈 등록
+Standard Permissions,표준 권한
+Standard Permissions:,표준 권한:
+Add A New Rule,새 권한 규칙 추가
+Add New Permission Rule,새 권한 규칙 추가
+Permission Level,권한 레벨
+Reset Permissions for {0}?,{0} 문서의 권한 설정을 기본값으로 초기화하시겠습니까?
+Restore Original Permissions,기본 권한으로 복원
+Restored to standard permissions,표준 권한으로 복원되었습니다.
+Role Permissions Activity Log,역할 권한 활동 로그
+Select Role,역할 선택
+Select Document Type,문서 유형 선택
+Document Type,문서 유형
+Set User Permissions,사용자 권한 설정
+"For comparison, use >5, <10 or =324. For ranges, use 5:10 (for values between 5 & 10).","비교 검색 시 >5, <10 또는 =324 형태로 입력하세요. 범위 검색 시 5:10 (5 이상 10 이하) 형태로 입력하세요."
+Execution Time: {0} sec,실행 시간: {0}초
+1 filter applied,1개 필터 적용됨
+{0} filters applied,{0}개 필터 적용됨
+Clear all filters,모든 필터 해제
+Clear all,모두 지우기
+Edit filter,필터 수정
+Remove filter,필터 제거
+Apply,적용
+Choose field,필드 선택
+Condition,조건
+Value,값
+"Values, comma separated",값 (쉼표로 구분)
+Equals,일치 (=)
+Not Equals,불일치 (!=)
+Like,포함 (Like)
+Not Like,미포함 (Not Like)
+In,목록 포함 (In)
+Not In,목록 제외 (Not In)
+Between,범위 (Between)
+Greater Than,초과 (>)
+Less Than,미만 (<)
+Greater Than Or Equal To,이상 (>=)
+Less Than Or Equal To,이하 (<=)
+Ancestors Of,상위 계층 (Ancestors)
+Descendants Of,하위 계층 (Descendants)
+Descendants Of (inclusive),하위 계층 포함 (Descendants inclusive)
+Timespan,기간 (Timespan)
+Today,오늘
+Yesterday,어제
+Tomorrow,내일
+This Week,이번 주
+Last Week,지난 주
+This Month,이번 달
+Last Month,지난 달
+This Quarter,이번 분기
+Last Quarter,지난 분기
+This Year,올해
+Last Year,작년
+Last 7 Days,최근 7일
+Last 14 Days,최근 14일
+Last 30 Days,최근 30일
+Last 90 Days,최근 90일
+Last 6 Months,최근 6개월
+Download Report,보고서 다운로드
+Download Report as CSV,CSV로 다운로드
+Reload Report,보고서 새로고침
+Save Report,보고서 저장
+Include filters,필터 포함
+Include hidden columns,숨겨진 열 포함
+"1 Currency = [?] Fraction
+For e.g. 1 USD = 100 Cent","1 기본 통화 = [?] 보조 단위 (예: 1 KRW = 1 원, 1 USD = 100 센트)"
+"Currency list stores the currency value, its symbol and fraction unit","통화 목록에는 통화 코드, 기호 및 보조 통화 단위가 저장됩니다."
+Pincode,우편번호
+Preferred Billing Address,기본 청구 주소
+Preferred Shipping Address,기본 배송 주소
+Billing,청구지 주소
+Shipping,배송지 주소
+Office,회사 / 사무실
+Personal,개인 / 자택
+Plant,공장 / 생산처
+Postal,우편 수령지
+Shop,매장 / 영업점
+Subsidiary,자회사 / 지사
+Current Address,현재 주소
+Permanent Address,등록 주소 / 본적지
+User List,사용자 목록
+Role Profile Name,역할 프로필명
+Role Permission Manager,역할별 권한 관리자
+User Permission,사용자 데이터 권한 제한
+User Group Member,사용자 그룹 멤버
+Desk User,데스크 사용자
+Module Profile,모듈 프로필
+Module Profile Name,모듈 프로필명
+Permission Log,권한 변경 로그
+Permission Type,권한 유형
+Security Settings,보안 환경 설정
+User Invitation,사용자 초대
+Send Password Update Notification,비밀번호 변경 알림 발송
+User Image,사용자 프로필 사진
+First Name,이름
+Middle Name,중간 이름
+Last Name,성
+Username,사용자 ID
+Email / User ID,이메일 / 사용자 ID
+New Password,새 비밀번호
+Roles and Permissions,역할 및 세부 권한
+Password Reset Key,비밀번호 재설정 키
+View all {0} users,전체 사용자({0}명) 보기
+Change Password,비밀번호 변경
+Session Default,세션 기본값
+General Settings,일반 설정
+Date and Number Format,날짜 및 숫자 서식
+Number Format,숫자 서식
+First Day of the Week,한 주의 시작 요일
+Allow Stale Logins,만료된 세션 로그인 허용
+Session Expiry,세션 만료 시간
+Session Expiry Mobile,모바일 세션 만료 시간
+Allow Multiple Sessions,다중 동시 세션 허용
+Print Heading,인쇄 문서 제목
+A code from a code list and what it maps to.,코드 목록에 정의된 코드 및 해당 코드 매핑 정보입니다.
+"A published list of codes, like units or tax categories, used in e-invoicing.","전자세금계산서/인보이스에 사용되는 표준 단위, 과세 구분 등의 공인 코드 목록입니다."
+Code,코드
+Time Zones,표준 시간대 목록
+Time format,시간 서식
+Show Currency Symbol on Right Side,통화 기호를 금액 오른쪽에 표시
+Symbol,기호
+Is Group,상위 그룹 여부
+old_parent,이전 상위 그룹
+City/Town,시/군/구
+Fax,팩스
+Links,연결 링크
+Reference,참조
+State/Province,시/도
+Template,서식 템플릿
+Active Sessions,활성 세션 목록
+Allow Modules,허용된 모듈
+Allow bulk actions,일괄 작업 허용
+Allow notifications,알림 수신 허용
+Allowed In Mentions,멘션(@) 허용
+App,앱
+Auto follow documents that are assigned to you,본인에게 할당된 문서를 자동 팔로우
+Auto follow documents that are shared with you,본인에게 공유된 문서를 자동 팔로우
+Auto follow documents that you Like,좋아요를 누른 문서를 자동 팔로우
+Auto follow documents that you comment on,댓글을 작성한 문서를 자동 팔로우
+Auto follow documents that you create,본인이 생성한 문서를 자동 팔로우
+Basic Info,기본 정보
+Bio,소개 / 메모
+Birth Date,생년월일
+Block Modules,차단된 모듈
+Bypass Restricted IP Address Check If Two Factor Auth Enabled,2단계 인증 사용 시 제한된 IP 검사 건너뛰기
+Code Editor Type,코드 에디터 유형
+Connections,연결
+Default App,기본 앱
+Default Workspace,기본 워크스페이스
+Defaults,기본값
+Desk Settings,데스크 환경 설정
+Desk Theme,데스크 테마 (화면 스타일)
+Dock,독 (사이드 바)
+Document Follow,문서 팔로우 설정
+Email Signature,이메일 서명
+Form Settings,문서 폼 설정
+Frequency,주기
+Gender,성별
+Home Settings,홈 화면 설정
+Interests,관심 분야
+Last Active,최종 활동 일시
+Last IP,최종 접속 IP
+Last Known Versions,최종 확인 버전
+Last Login,최종 로그인 일시
+Last Password Reset Date,최종 비밀번호 재설정일
+Last Reset Password Key Generated On,최종 비밀번호 재설정 키 생성일시
+List Settings,목록 화면 설정
+Location,근무 위치 / 지역
+Login After,로그인 허용 시작 시간
+Login Before,로그인 허용 종료 시간
+Logout From All Devices After Changing Password,비밀번호 변경 후 모든 기기에서 자동 로그아웃
+Modules HTML,모듈 HTML
+More Information,추가 정보
+Mute Sounds,효과음 음소거
+Navigation Settings,내비게이션 설정
+Onboarding Status,온보딩 진행 상태
+Redirect URL,이동 URL
+Report Settings,보고서 설정
+Reset Password Key,비밀번호 재설정 키
+Role Profiles,역할 프로필
+Roles & Permissions,역할 및 권한
+Roles Assigned,부여된 역할
+Roles HTML,역할 목록
+Send Me A Copy of Outgoing Emails,발신 이메일 사본을 내게 전송
+Send Notifications For Documents Followed By Me,내가 팔로우한 문서에 대한 알림 받기
+Send Notifications For Email Threads,이메일 스레드 알림 받기
+Send Read Receipt,수신 확인 요청 보내기
+Sessions,접속 세션
+Set New Password,새 비밀번호 설정
+Show My Space,마이 스페이스 표시
+Show absolute datetime in timeline,타임라인에 절대 일시 표시
+Show dashboard,대시보드 표시
+Show navigation buttons,내비게이션 버튼 표시
+Show search bar,검색창 표시
+Show sidebar,사이드바 표시
+Show timeline,타임라인 표시
+Show view switcher,보기 전환기 표시
+Social Logins,소셜 로그인 계정
+Split view in reports,보고서 화면 분할 보기
+Third Party Authentication,타사 외부 인증
+Unsubscribed,수신 거부됨
+User Defaults,사용자 기본 설정값
+User Details,사용자 상세 정보
+User Emails,사용자 이메일 계정
+Role Name,역할명
+Desk Access,데스크(ERP 관리화면) 접근 허용
+Document Permissions,문서별 세부 권한
+Documents,문서
+Home Page,기본 시작 페이지
+Is Custom,사용자 정의(Custom) 여부
+Pages,페이지
+Restrict To Domain,특정 도메인으로 제한
+Two Factor Authentication,2단계 인증(2FA)
+Advanced Control,고급 권한 제어
+Allow,허용 기준 문서 유형
+Applicable For,적용 대상 문서 유형
+Apply To All Document Types,모든 문서 유형에 일괄 적용
+For Value,제한 대상 값
+Hide Descendants,하위 계층 데이터 숨김
+User Group Members,사용자 그룹 멤버 목록
+IP Address,접속 IP 주소
+Link DocType,연결 문서 유형
+Link Name,연결 문서명
+Reference Document Type,참조 문서 유형
+Reference Name,참조 문서명
+Reference Owner,참조 소유자
+Timeline DocType,타임라인 문서 유형
+Timeline Name,타임라인 문서명
+Columns / Fields,조회 열 / 필드
+Export From,내보내기 출처
+File Information,파일 정보
+File Type,파일 유형
+HTML Page,HTML 페이지
+Log Data,로그 데이터
+Method,호출 메서드
+RAW Information Log,원시 로그 정보
+Reference Document,참조 문서
+Report Information,보고서 정보
+Report Name,보고서명
+Show Document,문서 보기
+Show Report,보고서 보기
+Timestamp,기록 일시
+Allowed Modules,허용된 모듈
+Apply User Permission On,사용자 권한 적용 대상
+Custom Document Types (Select Permission),사용자 정의 문서 유형 (선택 권한)
+Document Types,문서 유형
+Document Types (Select Permissions Only),문서 유형 (선택 권한 전용)
+Document Types and Permissions,문서 유형 및 권한
+Is Standard,표준 여부
+User Id Field,사용자 ID 필드
+User Type Module,사용자 유형 모듈
+Allow Roles,허용 역할
+Enable Prepared Report,사전 생성 보고서(대용량) 활성화
+Page,페이지
+Roles Html,역할 HTML
+Set Role For,역할 지정 대상
+AI Agents,AI 에이전트
+API Logging,API 요청 로깅
+Advanced,고급 설정
+Agent Instructions,에이전트 지침
+Allow Clearing Link Fields,연결 필드 지우기 허용
+Allow Consecutive Login Attempts,연속 로그인 시도 허용
+Allow Guests to Upload Files,게스트(비로그인) 파일 업로드 허용
+Allow Login After Fail,로그인 실패 후 재시도 허용
+Allow Login using Mobile Number,휴대폰 번호로 로그인 허용
+Allow Login using User Name,사용자 ID(Username)로 로그인 허용
+Allow Sending Usage Data for Improving Applications,앱 개선을 위한 익명 사용 현황 데이터 전송 허용
+Allow only one session per user,사용자당 1개 세션만 허용 (중복 로그인 차단)
+Allowed Doctypes for Guest Uploads,게스트 업로드 허용 문서 유형
+Allowed File Extensions,업로드 허용 파일 확장자
+Application Name,시스템 명칭
+Apply Strict User Permissions,엄격한 사용자 권한 규칙 적용
+Background Workers,백그라운드 작업 워커
+Backups,백업 설정
+Brute Force Security,무차별 대입 공격(Brute Force) 방어 설정
+Bypass Two Factor Auth for users who login from restricted IP Address,지정된 제한 IP에서 접속 시 2단계 인증 건너뛰기
+Bypass restricted IP Address check If Two Factor Auth Enabled,2단계 인증 사용 시 제한 IP 검사 건너뛰기
+Currency Precision,통화 소수점 자릿수
+Delete Background Exported Reports After (Hours),백그라운드 생성 보고서 자동 삭제 기한 (시간)
+Disable Change Log Notification,변경 내역 알림 비활성화
+Disable Document Sharing,문서 공유 기능 비활성화
+Disable Product Suggestion,제품 추천 기능 비활성화
+Disable Standard Email Footer,표준 이메일 하단 문구 비활성화
+Disable System Update Notification,시스템 업데이트 알림 비활성화
+Disable Username/Password Login,아이디/비밀번호 일반 로그인 비활성화
+Display,화면 표시 설정
+Document Share Key Expiry (in Days),문서 공유 키 유효기간 (일)
+Email Footer Address,이메일 하단 발신처 주소
+Email Retry Limit,이메일 발송 재시도 제한 횟수
+Enable Combobox Fields (Beta),콤보박스 필드 활성화 (베타)
+Enable MCP,MCP(Model Context Protocol) 연동 활성화
+Enable Onboarding,온보딩 가이드 활성화
+Enable Password Policy,비밀번호 보안 정책 활성화
+Enable Scheduled Jobs,예약된 스케줄 작업 실행
+Enable Snapshot Reports,스냅샷 보고서 활성화
+Enable Two Factor Auth,2단계 인증(2FA) 활성화
+Encrypt Backups,백업 파일 암호화
+Files,파일 관리 설정
+Float Precision,실수(Float) 소수점 자릿수
+Force User to Reset Password,최초 로그인 시 비밀번호 의무 변경
+Force Web Capture Mode for Uploads,업로드 시 웹 카메라 촬영 모드 강제
+Hide Empty Read-Only Fields,내용 없는 읽기 전용 필드 숨김
+Hide footer in auto email reports,자동 발송 보고서 하단 문구 숨김
+Include Web View Link in Email,이메일에 웹 문서 바로가기 링크 포함
+Link Field Results Limit,연결 필드 검색 결과 표시 개수
+Log API Requests,API 요청 내역 저장
+Login,로그인 설정
+Login Methods,로그인 인증 수단
+Login with email link,이메일 매직 링크로 로그인
+Login with email link expiry (in minutes),이메일 로그인 링크 유효시간 (분)
+Logout All Sessions on Password Reset,비밀번호 재설정 시 모든 기기에서 자동 로그아웃
+MCP Settings,MCP 환경 설정
+Max File Size (MB),최대 파일 크기 (MB)
+Max Report Rows,보고서 최대 조회 행 수
+Max auto email report per user,사용자당 자동 발송 보고서 최대 개수
+Max signups allowed per hour,시간당 최대 가입 허용 수
+Minimum Password Score,최소 비밀번호 보안 강도 점수
+Number of Backups,보관할 백업 파일 수
+OTP Issuer Name,OTP 발급자 명칭
+OTP SMS Template,OTP SMS 템플릿
+Only allow System Managers to upload public files,시스템 관리자만 공개 파일 업로드 허용
+Password Reset Link Generation Limit,비밀번호 재설정 링크 생성 횟수 제한
+Permissions,권한 설정
+Reset Password Link Expiry Duration,비밀번호 재설정 링크 유효기간 (시간)
+Reset Password Template,비밀번호 재설정 이메일 템플릿
+Rounding Method,반올림 방식
+Run Jobs only Daily if Inactive For (Days),미사용 시 일 단위로만 배치 작업 실행 (일)
+Server Name,서버 명칭
+Session Expiry (idle timeout),세션 유휴 만료 시간
+Setup Complete,기본 설정 완료 여부
+Show Absolute Datetime in Timeline,타임라인에 절대 일시 표시
+Show External Link Warning,외부 링크 이동 시 경고창 표시
+Show Full Error and Allow Reporting of Issues to the Developer,오류 상세 내용 표시 및 개발자 보고 허용
+Snapshot Reports,스냅샷 보고서
+Store Attached PDF Document,첨부된 PDF 문서 보관
+Strip EXIF tags from uploaded images,업로드된 이미지에서 EXIF(위치/촬영정보) 메타데이터 자동 제거
+Sync Timeout (Seconds),동기화 타임아웃 (초)
+Telemetry,원격 진단 / 텔레메트리
+Two Factor Authentication method,2단계 인증 수단
+Use Classic Charts,클래식 차트 사용
+Welcome Email Template,신규 가입 환영 이메일 템플릿
+frappectl,frappectl 제어 도구
+Search Priorities,검색 우선순위
+Allow page break inside tables,표 내부 페이지 분할 허용
+"Always add ""Draft"" Heading for printing draft documents","임시저장 문서 인쇄 시 항상 ""임시(Draft)"" 워터마크 추가"
+Enable Print Server,인쇄 서버 활성화
+Enable Raw Printing,원시(Raw) 인쇄 활성화
+Fonts,글꼴 설정
+Max Bulk Print Documents,일괄 인쇄 최대 문서 수
+Max Concurrent Bulk Exports Per User,사용자당 동시 일괄 내보내기 최대 작업 수
+PDF Generator,PDF 생성 엔진
+PDF Page Height (in mm),PDF 용지 세로 (mm)
+PDF Page Size,PDF 용지 크기
+PDF Page Width (in mm),PDF 용지 가로 (mm)
+PDF Settings,PDF 출력 설정
+Page Settings,페이지 여백 및 크기 설정
+Print Server,인쇄 서버
+Print Style Preview,인쇄 스타일 미리보기
+Print the PDF,PDF 파일로 인쇄
+Print with letterhead,레터헤드 포함 인쇄
+Repeat Header and Footer,모든 페이지마다 머리글/바닥글 반복
+Send Print as PDF,인쇄 문서를 PDF 첨부파일로 발송
+Align,정렬
+Footer Based On,바닥글 기준
+Footer HTML,바닥글 HTML
+Footer Image,바닥글 이미지
+Footer Script,바닥글 스크립트
+Header HTML,머리글 HTML
+Header Script,머리글 스크립트
+Image,이미지
+Image Height (px),이미지 높이 (px)
+Image Width (px),이미지 너비 (px)
+Instructions,사용 안내
+Letter Head Based On,레터헤드 구성 기준
+Letter Head For,레터헤드 대상
+Letter Head Image,레터헤드 이미지
+Module,소속 모듈
+Scripts,스크립트
+Align Labels to the Right,필드 레이블 우측 정렬
+Classic Format Data,클래식 양식 데이터
+Custom Format,사용자 정의 양식
+Custom HTML Help,사용자 정의 HTML 도움말
+Default Print Language,기본 인쇄 언어
+Draft Data,임시저장 데이터
+Format Data,양식 데이터
+Google Font,구글 웹 폰트
+HTML,HTML 코드
+Label Color,레이블 색상
+Page Number,페이지 번호 표시
+Paper Height (in mm),용지 세로 (mm)
+Paper Size,용지 규격
+Paper Width (in mm),용지 가로 (mm)
+Print Format Builder (Classic),인쇄 양식 빌더 (클래식)
+Print Format Editor,인쇄 양식 편집기
+Print Format For,인쇄 양식 적용 대상
+Print Format Help,인쇄 양식 도움말
+Print Format Type,인쇄 양식 유형
+Published By,발행자
+Raw Commands,원시 프린터 명령어
+Show Absolute Values,절댓값으로 표시
+Show Colon After Field Labels,필드 레이블 뒤에 콜론(:) 표시
+Show Line Breaks after Sections,섹션 뒤에 줄바꿈 추가
+Show Section Headings,섹션 제목 표시
+Style Settings,스타일 및 디자인 설정
+Value Color,값 텍스트 색상
+Add Reply-To header,회신 주소(Reply-To) 헤더 추가
+Add Signature,서명 추가
+Add X-Original-From header,원본 발신자(X-Original-From) 헤더 추가
+Alternative Email ID,보조 이메일 주소
+Always BCC Address,항상 숨은참조(BCC)할 주소
+Always use this email address as sender address,항상 이 이메일 주소를 발신자로 사용
+Always use this name as sender name,항상 이 이름을 발신자명으로 사용
+Append Emails to Sent Folder,보낸편지함에 이메일 자동 저장
+Append To,수신 시 자동 등록 대상 문서
+Attachment Limit (MB),첨부파일 용량 제한 (MB)
+Authenticate as Service Principal,서비스 주체(Service Principal)로 인증
+Authentication,인증 방식
+Authorize API Access,API 접근 권한 부여
+Auto Reply,자동 회신
+Auto Reply Message,자동 회신 메시지 본문
+Awaiting password,비밀번호 입력 대기 중
+Brand Logo,브랜드 로고
+Connected App,연결된 앱
+Connected User,연결된 사용자
+Create Contacts from Incoming Emails,수신된 이메일에서 새 연락처 자동 생성
+Default Incoming,기본 수신 계정으로 설정
+Default Outgoing,기본 발신 계정으로 설정
+Delivery Status Notification Type,발송 상태 알림(DSN) 유형
+Disable SMTP server authentication,SMTP 서버 인증 비활성화
+Document Linking,문서 자동 연결
+Domain,도메인
+Email Account Name,이메일 계정명
+Email Sync Option,이메일 동기화 방식
+Enable Auto Reply,자동 회신 기능 활성화
+Enable Automatic Linking in Documents,문서에 이메일 자동 링크 활성화
+Enable Incoming,수신 활성화
+Enable Outgoing,발신 활성화
+Footer Content,하단 안내 문구
+Frappe Mail Site,Frappe Mail 사이트
+Headers,메일 헤더
+IMAP Details,IMAP 서버 상세 설정
+IMAP Folder,IMAP 폴더
+Incoming,수신 설정
+Incoming (POP/IMAP) Settings,수신 (POP/IMAP) 환경 설정
+Initial Sync Count,최초 동기화 메일 수
+Last Received At,최종 수신 일시
+Notify if unreplied,미회신 시 알림 받기
+Notify if unreplied for (in mins),미회신 알림 대기 시간 (분)
+Outgoing,발신 설정
+Outgoing (SMTP) Settings,발신 (SMTP) 환경 설정
+Reply-To Addresses,회신 주소(Reply-To)
+Send Notification to,알림 수신 대상
+Send unsubscribe message in email,이메일 본문 하단에 수신 거부 링크 포함
+Sent Folder Name,보낸편지함 폴더명
+Service,메일 서비스 제공업체
+Signature,기본 서명
+Track Email Status,이메일 수신 확인 및 상태 추적
+UIDNEXT,UIDNEXT 식별자
+UIDVALIDITY,UIDVALIDITY 유효성
+Use ASCII encoding for password,비밀번호에 ASCII 인코딩 사용
+Use IMAP,IMAP 프로토콜 사용
+Use STARTTLS,STARTTLS 암호화 보안 연결 사용
+Use different Email ID,다른 이메일 주소 사용
+Validate Frappe Mail Settings,Frappe Mail 설정 검증
+Validate SSL Certificate,SSL 보안 인증서 유효성 검증
+no failed attempts,실패 횟수 없음
+Email Reply Help,이메일 회신 도움말
+Reference DocType,참조 문서 유형
+Response,응답 본문
+Use HTML,HTML 서식 사용
+Conditions,진행 조건
+Document States,문서 상태 목록
+Don't Override Status,기본 문서 상태 덮어쓰지 않음
+Enable Action Confirmation,결재 승인/반려 시 확인창 띄우기
+Is Active,현재 사용 중
+Priority,우선순위
+Send Email Alert,결재 알림 이메일 발송
+States,결재 단계 상태
+Transition Rules,결재 단계 전환 규칙
+Transitions,상태 전환
+Workflow Data,워크플로우 데이터
+Workflow Name,워크플로우(결재선) 명칭
+Workflow State Field,결재 상태 저장 필드
+Completed By Role,처리 역할
+Completed By User,처리자
+Permitted Roles,승인 허용 역할
+URL,URL
+Version,버전
+Icon,아이콘
+Style,스타일

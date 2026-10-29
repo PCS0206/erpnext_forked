@@ -19,9 +19,9 @@ Build,개발 / 빌드 도구
 Tools,도구
 Workspaces,워크스페이스
 Dashboard,대시보드
-Reports,보고서
+Reports,보고서 화면 설정
 Save,저장
-Saved,저장됨
+Saved,저장되었습니다.
 Submit,제출 (Submit)
 Submitted,제출됨
 Cancel,취소 (Cancel)
@@ -37,7 +37,7 @@ Update,업데이트
 Refresh,새로고침
 Reload,새로고침
 Print,인쇄 (Print)
-Email,이메일 (Email)
+Email,이메일 설정
 Export,내보내기 (Export)
 Import,가져오기 (Import)
 Duplicate,복제
@@ -1180,3 +1180,77 @@ URL,URL
 Version,버전
 Icon,아이콘
 Style,스타일
+Forms,문서 폼 설정
+Configure form view behaviour.,문서 폼 화면의 동작 방식을 설정합니다.
+"Display a sidebar in forms with attachments, preview image, tags, and other details.","첨부파일, 미리보기 이미지, 태그 및 세부 정보가 포함된 사이드바를 문서 폼에 표시합니다."
+"Show the activity timeline with comments, emails, and version history.","댓글, 이메일, 변경 이력이 포함된 활동 타임라인을 표시합니다."
+"Show a summary dashboard with charts and statistics, where available, at the top of forms.",문서 폼 상단에 통계 및 차트 요약 대시보드를 표시합니다 (지원되는 문서 유형에 한함).
+Display exact timestamps instead of relative time in the activity timeline.,활동 타임라인에 상대적 시간(예: 몇 분 전) 대신 정확한 날짜와 시각을 표시합니다.
+Show navigation buttons to view the previous and next record in the form toolbar.,문서 툴바에 이전 및 다음 레코드로 이동할 수 있는 내비게이션 버튼을 표시합니다.
+Lists,목록 화면 설정
+Configure list view behaviour.,목록 화면의 동작 방식을 설정합니다.
+Display the filter and group-by sidebar in list views.,목록 화면에 필터 및 그룹별 분류 사이드바를 표시합니다.
+Enable checkboxes to select multiple records and perform bulk operations.,체크박스를 통해 여러 레코드를 한 번에 선택하여 일괄 작업을 수행할 수 있도록 허용합니다.
+"Allow switching between list, kanban, report, and other views from the toolbar","툴바에서 목록, 칸반, 보고서 등 다양한 보기 방식으로 빠르게 전환할 수 있도록 허용합니다."
+Configure report view behaviour.,보고서 화면의 동작 방식을 설정합니다.
+Split view,화면 분할 보기
+Open a linked document in a side panel instead of navigating away from the report. Not available on mobile.,보고서 화면을 벗어나지 않고 우측 사이드 패널에서 연결된 문서를 바로 열람합니다 (모바일 미지원).
+Appearance,화면 스타일 (Appearance)
+Theme and layout preferences.,테마 및 레이아웃 환경 설정.
+Theme,테마
+"Switch between light, dark, or system theme.","라이트 모드, 다크 모드 또는 시스템 설정 테마로 전환합니다."
+Layout,레이아웃
+Choose whether forms should be displayed in compact or full width.,문서 폼 화면을 콤팩트(중앙 정렬) 또는 전체 너비로 표시할지 선택합니다.
+Compact,콤팩트 (기본 너비)
+Full Width,전체 너비 (Full Width)
+"Keep the app dock beside the sidebar, or let it slide in from the left edge.",앱 독(Dock)을 사이드바 옆에 고정하거나 왼쪽 가장자리에서 슬라이드되도록 설정합니다.
+Pinned,고정
+Floating,플로팅 (슬라이드)
+Preferences,환경 설정
+"Language, timezone and notification preferences.","언어, 표준 시간대 및 알림 환경 설정."
+Locale,지역 및 언어
+Change Language,언어 변경
+Change Time Zone,표준 시간대 변경
+Show desktop and in-app notifications for activity on your account.,계정 내 주요 활동에 대해 데스크톱 및 인앱 알림을 표시합니다.
+Display the search bar in the navigation area for quick access.,상단 내비게이션 영역에 빠른 검색을 위한 검색창을 표시합니다.
+Add a link to your own private workspaces in the user menu.,사용자 메뉴에 개인 워크스페이스로 이동하는 바로가기 링크를 추가합니다.
+Mute sounds,효과음 음소거
+Disable all notification and alert sounds across the application.,시스템 내의 모든 알림음 및 경고 효과음을 음소거합니다.
+Configure your email settings.,이메일 관련 환경 설정을 구성합니다.
+Send notifications for email threads,이메일 스레드 알림 받기
+Get notified when there's a new reply in an email thread you're part of.,본인이 참여 중인 이메일 스레드에 새 답장이 등록되면 알림을 받습니다.
+Send me a copy of outgoing emails,발신 이메일 사본 내게 전송
+Receive a copy of every email you send in your inbox.,본인이 발송한 모든 이메일의 사본을 내 편지함으로 수신합니다.
+Request read receipts for outgoing emails,발신 이메일 수신 확인 요청
+Get notified when a recipient opens an email you send.,수신자가 발송된 이메일을 열람했을 때 확인 알림을 받습니다.
+Profile,프로필
+Manage your profile information and display picture.,사용자 프로필 정보와 프로필 사진을 관리합니다.
+Upload Photo,사진 업로드
+Set default values for the current session. Values set here will be autofilled in forms and reports.,현재 접속 세션에 적용될 기본값을 설정합니다. 여기서 설정된 값은 문서 작성 및 보고서 조회 시 자동으로 입력됩니다.
+No session defaults configured.,설정된 세션 기본값이 없습니다.
+An error occurred while updating your session defaults.,세션 기본값을 업데이트하는 도중 오류가 발생했습니다.
+Keyboard Shortcuts,키보드 단축키
+Get around the system quickly with keyboard shortcuts.,키보드 단축키를 사용하여 시스템을 빠르고 효율적으로 탐색하세요.
+Press Alt Key to trigger additional shortcuts in Menu and Sidebar,Alt 키를 누르면 메뉴 및 사이드바의 추가 단축키가 활성화됩니다.
+Failed to load settings,설정을 불러오지 못했습니다.
+Failed to save,저장에 실패했습니다.
+Refresh to see changes,변경 사항을 적용하려면 페이지를 새로고침하세요.
+Configure,설정
+Edit Sidebar,사이드바 편집
+Add to the Sidebar,사이드바에 추가
+Clear Customizations,사용자 지정 초기화
+Reset to Defaults,기본값으로 초기화
+Dock updated,독(Dock)이 업데이트되었습니다.
+Add to the dock,독(Dock)에 추가
+Bring every entry back onto the dock.,모든 항목을 독(Dock)으로 다시 복원합니다.
+Could not load the dock. Please try again.,독을 불러오지 못했습니다. 다시 시도해 주세요.
+All apps,전체 앱
+Apps,앱 목록
+User Menu,사용자 메뉴
+Open the app dock,앱 독(Dock) 열기
+Notifications,알림
+Background Tasks,백그라운드 작업
+Toggle Theme,테마 전환
+Dark Theme,다크 모드
+Light Theme,라이트 모드
+Automatic,시스템 설정 연동 (자동)

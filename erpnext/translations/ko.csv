@@ -1069,7 +1069,7 @@ Letter Head For,레터헤드 대상
 Letter Head Image,레터헤드 이미지
 Module,모듈
 Scripts,스크립트
-Align Labels to the Right,레이블 오른쪽 정렬
+Align Labels to the Right,라벨 오른쪽 정렬
 Classic Format Data,클래식 양식 데이터
 Custom Format,사용자 정의 양식
 Custom HTML Help,사용자 정의 HTML 도움말
@@ -1078,7 +1078,7 @@ Draft Data,임시저장 데이터
 Format Data,양식 데이터
 Google Font,Google 글꼴
 HTML,HTML
-Label Color,레이블 색상
+Label Color,라벨 색상
 Page Number,페이지 번호
 Paper Height (in mm),용지 높이(mm)
 Paper Size,용지 크기
@@ -1091,7 +1091,7 @@ Print Format Type,인쇄 양식 유형
 Published By,게시자
 Raw Commands,원시 명령
 Show Absolute Values,절댓값 표시
-Show Colon After Field Labels,필드 레이블 뒤에 콜론 표시
+Show Colon After Field Labels,필드 라벨 뒤에 콜론 표시
 Show Line Breaks after Sections,섹션 뒤에 줄바꿈 표시
 Show Section Headings,섹션 제목 표시
 Style Settings,스타일 설정
